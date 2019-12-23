@@ -1,6 +1,6 @@
 # Flask sample project
 
-This is sample project to host Flask
+This is sample project to host Flask with Visual Studio Code debugger
 
 ## Thanks
 
