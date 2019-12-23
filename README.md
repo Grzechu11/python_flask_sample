@@ -6,6 +6,7 @@ This is sample project to host Flask with Visual Studio Code debugger
 
 - [Tutorial]('https://code.tutsplus.com/pl/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql--cms-22972')
 - [Docs]('https://python101.readthedocs.io/pl/latest/webflask/')
+- [Visual Studio Code Tutorial]('https://code.visualstudio.com/docs/python/tutorial-flask')
 
 ## Useful commands
 
@@ -57,4 +58,13 @@ deactivate
 
 ```powershell
 where python
+```
+
+### Visual Studio Code
+
+- Python: Select Interpreter
+
+```code
+Command Palette (View > Command Palette or (Ctrl+Shift+P)). Then select the Python: Select Interpreter.
+Select virtual environment. `./env/...` or `.\env\...`
 ```
